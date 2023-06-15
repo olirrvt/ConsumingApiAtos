@@ -1,0 +1,17 @@
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.csproj.AssemblyReference.cache
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.AssemblyInfoInputs.cache
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.AssemblyInfo.cs
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.csproj.CoreCompileInputs.cache
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.exe
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.deps.json
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.runtimeconfig.json
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.dll
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\ConsumindoApi.pdb
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.csproj.CopyComplete
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.dll
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\refint\ConsumindoApi.dll
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.pdb
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ConsumindoApi.genruntimeconfig.cache
+C:\Users\Taylor\Desktop\ConsumindoApi\ConsumindoApi\obj\Debug\net6.0\ref\ConsumindoApi.dll

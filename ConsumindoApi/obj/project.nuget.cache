@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "DSrb2uyMkRHCrafnNoro54Vsx2CtiJfHRy4PkDAL7fg76DENh3myzSooeDpJx8WhyFnX23fZN5ioZS4xW32f6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Taylor\\Desktop\\ConsumindoApi\\ConsumindoApi\\ConsumindoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Taylor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Taylor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
